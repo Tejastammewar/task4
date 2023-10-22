@@ -1,0 +1,24 @@
+/* DarkMode.css */
+body {
+  background-color: #323030;
+  /* Dark background color */
+  color: #fff;
+  /* Light text color */
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+th,
+td {
+  border-color: #000000;
+  border: 1px solid white;
+  /* Darker border color */
+}
